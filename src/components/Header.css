@@ -30,7 +30,7 @@ header {
 
 .items {
     font-weight: 500;
-    max-width: 70px;
+    min-width: 70px;
 }
 
 @media screen and (max-width:680px) {

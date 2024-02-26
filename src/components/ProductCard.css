@@ -45,3 +45,14 @@
 .productCard button:hover {
     background-color: #103f80;
 }
+.action .remove{
+    border: 0;
+    background-color: #ac0d14;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 7px 10px;
+}
+.action .remove:hover{
+    background-color: #8e090f;
+}
